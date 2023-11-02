@@ -1,0 +1,38 @@
+*{ 
+    margin: 0px;
+    padding: 0px;
+
+}
+header{
+padding: 10px;
+display: flex;
+justify-content: center;
+
+}
+
+main{
+padding: 80px;
+justify-content: center;
+}
+
+.seleccion{
+ padding: 10px;
+ display: flex;
+ justify-content: center;
+}
+
+.seleccion>select{
+padding: 10px;
+width: 80px;
+}
+
+.ingresar{
+display: flex;
+justify-content: center;
+align-content: center;
+}
+
+.ingresar>button{
+padding: 10px;
+width: 100px;
+}
